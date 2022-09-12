@@ -1,0 +1,30 @@
+.subHeading {
+  font-weight: normal;
+}
+
+.descriptionBox {
+  background-color: #ffffff;
+  width: 100%;
+  padding: 10px 20px 20px 20px;
+  box-shadow: 1.5px 2px 2px #808080;
+  margin: 50px 1.5px;
+  border-radius: 2px;
+}
+
+.descriptionText {
+  width: 55%;
+}
+
+.descriptionButtonContainer {
+  float: right;
+}
+
+#descriptionBtn {
+  background-color: #3498db;
+  color: #ffffff;
+}
+
+#subHeading-box {
+  display: flex;
+  flex-direction: column;
+}

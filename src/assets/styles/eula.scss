@@ -1,0 +1,34 @@
+.wrapper {
+  background-color: #ecf0f1;
+  width: 100%;
+  height: 100vh;
+  max-height: 100%;
+}
+
+.normalFontWeight {
+  font-weight: normal;
+}
+
+.subWrapper {
+  width: 100%;
+}
+
+.firstPan {
+  background-color: #ffffff;
+}
+
+.firstPanText {
+  color: #1b9cfc;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.publishedDraft {
+  background: #2ecc71;
+  color: #ffffff;
+}
+
+.unsavedDraft {
+  background: #7f8c8d;
+  color: #ffffff;
+}
